@@ -172,7 +172,6 @@ The correction restored the tested portal access. The page's static “Portal st
 
 - [Retrospective simulated incident ticket](docs/INC-002.md)
 - [Portal access troubleshooting guide](docs/portal-access-guide.md)
-- [One-page interview guide](docs/Internal_Portal_One_Page_Interview_Guide.pdf)
 
 ## What I learned
 
